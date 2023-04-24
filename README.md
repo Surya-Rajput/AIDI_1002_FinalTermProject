@@ -8,8 +8,8 @@ Technology, particularly artificial intelligence, has significantly impacted var
 #### NOTE : Plotly (Plotly python graphing library) is used to create the visualisations in this project. Please install plotly to run the visualisation codes and plot the graphs.
 
 #### Python libraries used: 
-numpy
-pandas
+* numpy,
+* pandas,
 seaborn
 matplotlib
 LabelEncoder, train_test_split, metrics, GridSearchCV, LogisticRegression, KNeighborsClassifier, RandomForestClassifier, GradientBoostingClassifier, tree, GaussianNB, and svm from sklearn

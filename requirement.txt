@@ -30,4 +30,4 @@ tensorflow-estimator==2.11.0
 tensorflow-intel==2.11.1
 tensorflow-io-gcs-filesystem==0.31.0
 xgboost==1.7.4
-
+plotly==5.3.1

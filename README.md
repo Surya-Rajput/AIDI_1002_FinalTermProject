@@ -8,15 +8,15 @@ Technology, particularly artificial intelligence, has significantly impacted var
 #### NOTE : Plotly (Plotly python graphing library) is used to create the visualisations in this project. Please install plotly to run the visualisation codes and plot the graphs.
 
 #### Python libraries used: 
-* numpy,
-* pandas,
-seaborn
-matplotlib
-LabelEncoder, train_test_split, metrics, GridSearchCV, LogisticRegression, KNeighborsClassifier, RandomForestClassifier, GradientBoostingClassifier, tree, GaussianNB, and svm from sklearn
-tensorflow and keras from TensorFlow
-xgboost
-DecisionTreeClassifier from sklearn.tree
-plotly.express
+* Numpy,
+* Pandas,
+* Seaborn
+* Matplotlib
+* LabelEncoder, train_test_split, metrics, GridSearchCV, LogisticRegression, KNeighborsClassifier, RandomForestClassifier, GradientBoostingClassifier, tree, GaussianNB, and svm from sklearn
+* tensorflow and keras from TensorFlow
+* xgboost
+* DecisionTreeClassifier from sklearn.tree
+* plotly.express
 
 #### Clone the repository:
 git clone https://github.com/Surya-Rajput/AIDI_1002_FinalTermProject.git

@@ -1,4 +1,4 @@
-# Covid-19 detection using Machine Learning 
+# Enhancing COVID-19 Diagnosis: A Comprehensive Comparison of Machine Learning Algorithms for Predictive Modeling 
 
 ### Project Description
 The COVID-19 pandemic has posed unprecedented challenges to healthcare systems, economies, and societies worldwide. Rapid and accurate identification of COVID-19 cases is crucial to contain the spread of the virus, allocate medical resources efficiently, and implement targeted public health measures. Consequently, the development of reliable diagnostic tools has become a top priority for researchers, healthcare professionals, and policymakers.Traditional diagnostic methods, such as PCR tests, have their limitations in terms of accuracy, cost, and turnaround time.
